@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_01_02 Unsuccessfully upload a resume more than 5MB (N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d476bc99-27fb-43d2-8c1f-3e0f51a95d89</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0f79faa-db07-479d-9e8f-755bb7019a93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\User\\Downloads\\pkpadmin,+838-4074-1-CE.pdf'</defaultValue>
+      <description></description>
+      <id>c0f79faa-db07-479d-9e8f-755bb7019a93</id>
+      <masked>false</masked>
+      <name>resume</name>
+   </variable>
+</TestCaseEntity>

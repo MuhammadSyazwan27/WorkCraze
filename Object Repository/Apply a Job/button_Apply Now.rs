@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply Now</name>
+   <tag></tag>
+   <elementGuidId>14cb3615-3f0b-4b7b-a24c-7e5b3e465078</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.apply-now-btn.border-0.btn-primary.btn.border-radius-10.regular-font-size.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e70ddea7-6e95-4e9e-89f3-391cb5691677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>962ef1b1-474b-406c-8511-d6d5fd1b35b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apply-now-btn border-0 btn-primary btn border-radius-10 regular-font-size ng-star-inserted</value>
+      <webElementGuid>4192990f-4507-4c8d-bfd9-3db80fae3d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Apply Now </value>
+      <webElementGuid>beaa3eda-2332-4e8b-9f54-091899e97526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-job-listing[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;job-search-result-page&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row gx-0&quot;]/div[@class=&quot;col-lg-8 ps-2&quot;]/app-job-view[1]/div[@class=&quot;responsive-right ng-star-inserted&quot;]/div[@class=&quot;responsive-overlay&quot;]/div[@class=&quot;responsive-box&quot;]/div[@class=&quot;vh-height ps-lg-4 pe-3 pt-lg-5&quot;]/div[@class=&quot;company-details position-relative&quot;]/button[@class=&quot;apply-now-btn border-0 btn-primary btn border-radius-10 regular-font-size ng-star-inserted&quot;]</value>
+      <webElementGuid>c123407f-278a-4ad8-9744-c910397a2d86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>152a7b99-ce9c-47e4-a057-65dfa962e37b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[2]/following::button[1]</value>
+      <webElementGuid>3f048991-166f-4da4-af6d-c01411ff3638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='use excel'])[1]/following::button[2]</value>
+      <webElementGuid>e3c4d082-f244-40de-8a12-81d0a4a6d6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Highlights'])[1]/preceding::button[1]</value>
+      <webElementGuid>86669cb7-a1a2-4cf9-ace1-d954ffa14700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='know finance'])[2]/preceding::button[1]</value>
+      <webElementGuid>143f72d4-c319-44e7-8cef-b16b86e87a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply Now']/parent::*</value>
+      <webElementGuid>74b37229-7b88-4f8d-aff3-b69e81f4c6ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>eb65ceac-f243-4993-a774-669a1b02fe3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Apply Now ' or . = ' Apply Now ')]</value>
+      <webElementGuid>fa5183f8-0fe4-4bb6-ae6e-1ab3e160741b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

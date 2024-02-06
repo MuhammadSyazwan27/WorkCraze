@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>000_01 Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f6f907f-8b72-4423-8bd0-dd3268aafedb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3f3acd5-ae76-4ab9-bcd7-83e0f30622bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0cbb1e0-5e1c-470d-888c-d3dc7f227706</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50e67976-776b-4839-8d3e-2602285aae02</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John'</defaultValue>
+      <description></description>
+      <id>c3f3acd5-ae76-4ab9-bcd7-83e0f30622bf</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Doe'</defaultValue>
+      <description></description>
+      <id>f0cbb1e0-5e1c-470d-888c-d3dc7f227706</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'qualdecoy12@gmail.com'</defaultValue>
+      <description></description>
+      <id>50e67976-776b-4839-8d3e-2602285aae02</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

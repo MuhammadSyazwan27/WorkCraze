@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Error  File Size is large From 200KB</name>
+   <tag></tag>
+   <elementGuidId>9854ca10-14a7-4578-8c5f-9a473da6b78f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c36-91.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-error.ng-animating</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>183f2cfe-32be-4ca1-bebd-8e487fe8035f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c36-91 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error ng-animating</value>
+      <webElementGuid>7a9b4684-75c4-4868-a574-5b525f7155d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Error  File Size is large From 200KB </value>
+      <webElementGuid>6254a9c3-bc71-4847-879e-8c9ae10d1bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c36-91 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error ng-animating&quot;]</value>
+      <webElementGuid>75ef904e-4386-4622-9bae-722c0c768c9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>2cf13958-788b-41f9-898f-d9919eaa6e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[3]</value>
+      <webElementGuid>e5c19904-9b6c-46c2-b5df-8d8be4221356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interested to be part of Crowdtesting?'])[1]/following::div[5]</value>
+      <webElementGuid>82890b80-8f16-4147-a597-0ed3b1078a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div</value>
+      <webElementGuid>4c2f38ec-1cfe-4145-8bc2-ac7132d4b22d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Error  File Size is large From 200KB ' or . = ' Error  File Size is large From 200KB ')]</value>
+      <webElementGuid>bcec1fbd-51c8-4de4-810a-028b5ec128cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

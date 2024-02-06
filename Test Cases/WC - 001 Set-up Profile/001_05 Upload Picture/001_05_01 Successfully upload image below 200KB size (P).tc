@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_05_01 Successfully upload image below 200KB size (P)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46a35600-9b83-49e0-8b9c-4ab18c3ea3ff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bae9e135-860b-4a75-a081-1887c7c416e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\User\\Downloads\\SampleJPGImage_100kbmb.jpg'</defaultValue>
+      <description></description>
+      <id>bae9e135-860b-4a75-a081-1887c7c416e1</id>
+      <masked>false</masked>
+      <name>picture_image</name>
+   </variable>
+</TestCaseEntity>

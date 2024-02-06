@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_05_02 Unsuccessfully upload image more than 200KB (N)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccf1ae64-abc8-4d2a-89d2-616005d08433</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>416d3d90-cb48-425a-ba45-3ba72476eaf4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\User\\Downloads\\SampleJPGImage_2mbmb.jpg'</defaultValue>
+      <description></description>
+      <id>416d3d90-cb48-425a-ba45-3ba72476eaf4</id>
+      <masked>false</masked>
+      <name>picture</name>
+   </variable>
+</TestCaseEntity>

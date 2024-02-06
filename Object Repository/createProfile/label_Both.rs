@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Both</name>
+   <tag></tag>
+   <elementGuidId>46349e5a-d2dd-4d5e-adc7-05b4bfe8d30e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='WFH'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b33eba00-e57e-4e82-b40d-5d1ec54658dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>work1</value>
+      <webElementGuid>b6ffb49d-1486-4148-8029-89f2171f0d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label custom-check-label</value>
+      <webElementGuid>766e82e5-5f62-430e-b129-690f3411e5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Both</value>
+      <webElementGuid>48e35161-5db4-4632-975f-f2c762502af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-candidate-edit-profile[@class=&quot;ng-star-inserted&quot;]/section[@class=&quot;profile-set-up job-seeker-page py-lg-5 py-4&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row gx-xl-5&quot;]/div[@class=&quot;col-lg-6 mb-3&quot;]/div[1]/div[@class=&quot;row gx-sm-4 gx-1 form-radio-btns&quot;]/div[@class=&quot;col-4&quot;]/div[@class=&quot;form-check custom-form-check position-relative&quot;]/label[@class=&quot;form-check-label custom-check-label&quot;]</value>
+      <webElementGuid>3185894d-c3e6-4038-9c13-a7a481bf784f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WFH'])[1]/following::label[1]</value>
+      <webElementGuid>9ae9f5a3-7a4d-4c07-8a71-804022221f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Site Office'])[1]/following::label[2]</value>
+      <webElementGuid>8971d404-e909-44e8-94a3-79461a1b11b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brief Introduction About Self'])[1]/preceding::label[1]</value>
+      <webElementGuid>afe9bfdf-2a73-4a26-8583-f077eceefa3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyword Search'])[1]/preceding::label[2]</value>
+      <webElementGuid>9898c119-3cff-4c4f-ad06-ceeefaea0065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Both']/parent::*</value>
+      <webElementGuid>bd88dde0-0029-4c7f-974b-50e761054056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>bb6bdc84-8d36-48e3-a8e3-35b1062e18ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Both' or . = 'Both')]</value>
+      <webElementGuid>fb1720e6-12ec-4fef-a1d8-1b3fc958917c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

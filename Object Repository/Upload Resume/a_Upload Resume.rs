@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Upload Resume</name>
+   <tag></tag>
+   <elementGuidId>a519083a-4969-4377-a1f2-7dfcdfcec972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='profileActive']/div/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>095bd51e-1929-4a0e-ac95-95974bc90188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/upload-resume</value>
+      <webElementGuid>6bbd6baf-39fa-4875-9d0d-bf2d658a1eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlinkactive</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>61917aeb-6b40-40e7-8dbf-f46b37edb952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-link nav-menu</value>
+      <webElementGuid>6e72cc6a-3e66-4b86-aa7d-c5509d071e05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/upload-resume</value>
+      <webElementGuid>b6e9638e-5979-4865-83be-34d002b64407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Resume</value>
+      <webElementGuid>cd142418-4261-4794-8cac-42a6cf70552c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileActive&quot;)/div[@class=&quot;dropdown-menu-custom&quot;]/ul[@class=&quot;dropdown-list list-unstyled&quot;]/li[@class=&quot;dropdown-items&quot;]/a[@class=&quot;dropdown-link nav-menu&quot;]</value>
+      <webElementGuid>35d9cb78-e64a-405c-ab97-b6538a2759fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='profileActive']/div/ul/li[6]/a</value>
+      <webElementGuid>1cba2ab4-1daf-4a5c-a713-6e871b17b4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Upload Resume')]</value>
+      <webElementGuid>bd1c25b0-519d-4671-90a1-1364a1d4e76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skill'])[1]/following::a[1]</value>
+      <webElementGuid>2cec5c43-ac03-4754-bdba-16757f8f2a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::a[2]</value>
+      <webElementGuid>12029f52-35dc-4469-995e-f942bfc56db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Application Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>86f3fafb-cdd2-4aa3-8aa2-668d1644bc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Request'])[1]/preceding::a[2]</value>
+      <webElementGuid>5a82123b-860f-4c1a-a922-8c6203f74aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Resume']/parent::*</value>
+      <webElementGuid>8a02370a-aa32-4e37-875c-733ad96b7f5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/upload-resume')]</value>
+      <webElementGuid>fa9e61e1-5286-4cbf-8370-2e8f22d1e77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[6]/a</value>
+      <webElementGuid>783152e2-4fb0-4d57-86c1-e3bf4a78d5bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/upload-resume' and (text() = 'Upload Resume' or . = 'Upload Resume')]</value>
+      <webElementGuid>f0b45d13-5df3-4fd2-b3b4-ac62da3e975c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

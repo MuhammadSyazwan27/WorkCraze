@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_02_01 Employer can find candidate and request for resume (P)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7541283-843a-411b-9301-c713f267b406</testCaseGuid>
+</TestCaseEntity>

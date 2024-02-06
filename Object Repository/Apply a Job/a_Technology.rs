@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Technology</name>
+   <tag></tag>
+   <elementGuidId>8447765d-d24d-45d9-84f7-26fc9d78efa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.industries-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Industries'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>28a0c086-66d5-43d8-aca4-ceb2f6bd434b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>industries-box</value>
+      <webElementGuid>6df558e5-cb6c-4a03-9484-d62ed6651720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Technology</value>
+      <webElementGuid>9b1ab925-6357-422a-8959-00188a59f9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/main[@class=&quot;main-page position-relative&quot;]/section[@class=&quot;industries-section&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row gx-4&quot;]/div[@class=&quot;col-lg-3 col-sm-6 ng-star-inserted&quot;]/a[@class=&quot;industries-box&quot;]</value>
+      <webElementGuid>146cad6c-eb36-45b9-aa4f-a25ca38fed33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industries'])[1]/following::a[1]</value>
+      <webElementGuid>50fd378a-00e8-46b8-a71a-10ac4a63231d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::a[6]</value>
+      <webElementGuid>05172f23-c0d0-4504-8c53-eb4fb60f83b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT'])[1]/preceding::a[1]</value>
+      <webElementGuid>35faf02e-e4a6-40bc-824f-a7948a217256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>3f61fa30-b856-45a0-ab4d-565099b557b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Technology' or . = 'Technology')]</value>
+      <webElementGuid>3f73cd6b-426e-4047-a15e-af25167451cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

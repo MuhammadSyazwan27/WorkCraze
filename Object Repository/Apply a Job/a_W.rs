@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_W</name>
+   <tag></tag>
+   <elementGuidId>463ba2be-95ba-4b7d-be51-eddfc9a3124f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.alphabet-link.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'W')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a3abcd05-ca5b-4fb7-8944-1b3a4b2e29fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alphabet-link active</value>
+      <webElementGuid>d09cd66e-6ca3-4101-a4c7-8e8a386c943c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>W</value>
+      <webElementGuid>6da12f4f-2109-49ad-8991-b2b301f954bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/main[@class=&quot;main-page position-relative&quot;]/section[@class=&quot;alphabet-section&quot;]/div[@class=&quot;container-content&quot;]/ul[@class=&quot;alphabet-list&quot;]/li[@class=&quot;alphabet-item ng-star-inserted&quot;]/a[@class=&quot;alphabet-link active&quot;]</value>
+      <webElementGuid>7d351624-8201-463a-9125-35159f68cc6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'W')]</value>
+      <webElementGuid>595a59d3-8ebc-4662-923b-e255001d7aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='V'])[1]/following::a[1]</value>
+      <webElementGuid>9904d3f4-c512-4ed5-860b-093873dde171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='U'])[1]/following::a[2]</value>
+      <webElementGuid>32c33172-441b-400d-97b7-28cee0529217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::a[1]</value>
+      <webElementGuid>68d4ed80-b5aa-43e7-9b72-f26a1ddc30c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y'])[1]/preceding::a[2]</value>
+      <webElementGuid>62146b0a-05a3-4932-a5d9-3efcf52352d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='W']/parent::*</value>
+      <webElementGuid>313e9a7c-c3df-46c1-b072-dbc3fde88ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[23]/a</value>
+      <webElementGuid>7b0ab0d4-e58b-4ab5-9a2d-439e7050323e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'W' or . = 'W')]</value>
+      <webElementGuid>cc2fe3ce-33cb-4ac5-be68-960a0ac30c0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

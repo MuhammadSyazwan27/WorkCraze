@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Petroleum</name>
+   <tag></tag>
+   <elementGuidId>6cc5c6aa-6469-4ae9-b034-7a6b802ce82a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing'])[1]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>07989f72-add2-4127-9fb6-b422ab47d9bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>industries-box</value>
+      <webElementGuid>7928d2ca-e808-45df-bf85-a5a686a43cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Petroleum</value>
+      <webElementGuid>fdb5cfc6-4cae-4447-8507-73b89e4d749f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/main[@class=&quot;main-page position-relative&quot;]/section[@class=&quot;industries-section&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;row gx-4&quot;]/div[@class=&quot;col-lg-3 col-sm-6 ng-star-inserted&quot;]/a[@class=&quot;industries-box&quot;]</value>
+      <webElementGuid>28cb4ff7-9107-4bf1-b4a4-32dd01a51bd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketing'])[1]/following::a[1]</value>
+      <webElementGuid>694161d2-7a7a-4fe5-960e-59ef68a91f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance'])[1]/following::a[2]</value>
+      <webElementGuid>9355db40-bae4-42a4-b9b2-035c12f2242a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Real Estate'])[1]/preceding::a[1]</value>
+      <webElementGuid>58fa8c90-4e43-417f-bd13-8be127fca59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a</value>
+      <webElementGuid>95982688-277d-43eb-80b7-6eabf94eec17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Petroleum' or . = 'Petroleum')]</value>
+      <webElementGuid>9375cf42-44f3-4c3a-9f2a-cbdfbe4212c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

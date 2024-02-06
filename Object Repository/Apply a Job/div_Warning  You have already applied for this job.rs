@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Warning  You have already applied for this job</name>
+   <tag></tag>
+   <elementGuidId>324acc21-7541-474f-b254-38b17ea1b87f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c36-75.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d546ab3a-dcbd-4091-a803-b9b2866fd0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c36-75 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-warning</value>
+      <webElementGuid>a835407f-92bd-4ed8-aa60-f3866426f120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Warning  You have already applied for this job. </value>
+      <webElementGuid>df490551-ce0d-4e6d-a1cc-e325158dc1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c36-75 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-warning&quot;]</value>
+      <webElementGuid>63cd76dc-69d1-45a6-85dc-7ae83c5fcf48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>9bf9eba2-046a-4876-b8c3-dd87cb7f16bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih2'])[1]/following::div[3]</value>
+      <webElementGuid>cc90f180-e8ac-4a9a-890b-3e0b40fdc509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kira2'])[1]/following::div[3]</value>
+      <webElementGuid>3c498a17-c035-4957-8d58-51a75adea84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div</value>
+      <webElementGuid>c0784923-8461-46f0-90ef-146986cc94cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Warning  You have already applied for this job. ' or . = ' Warning  You have already applied for this job. ')]</value>
+      <webElementGuid>ef177529-a460-48bc-b665-c292bafbbb75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

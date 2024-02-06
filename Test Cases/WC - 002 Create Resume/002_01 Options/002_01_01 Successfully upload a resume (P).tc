@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_01_01 Successfully upload a resume (P)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>559d33dc-669e-4999-aa50-443a00cb16f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7437ad3-886c-4c73-9f0f-7ca557a1e4e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\User\\Downloads\\SamplePDFFile_5mb.pdf'</defaultValue>
+      <description></description>
+      <id>f7437ad3-886c-4c73-9f0f-7ca557a1e4e7</id>
+      <masked>false</masked>
+      <name>resume</name>
+   </variable>
+</TestCaseEntity>
